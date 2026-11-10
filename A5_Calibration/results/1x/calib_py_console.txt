@@ -1,0 +1,18 @@
+saving undistorted calib sample: ./imgs_calib\KakaoTalk_20261022_211823006_02.jpg
+saving undistorted calib sample: ./imgs_calib\KakaoTalk_20261022_211823006_03.jpg
+saving undistorted calib sample: ./imgs_calib\KakaoTalk_20261022_211823006_04.jpg
+saving undistorted calib sample: ./imgs_calib\KakaoTalk_20261022_211823006_05.jpg
+saving undistorted calib sample: ./imgs_calib\KakaoTalk_20261022_211823006_07.jpg
+saving undistorted calib sample: ./imgs_calib\KakaoTalk_20261022_211823006_09.jpg
+saving undistorted calib sample: ./imgs_calib\KakaoTalk_20261022_211823006_10.jpg
+saving undistorted calib sample: ./imgs_calib\KakaoTalk_20261022_211823006_13.jpg
+saving undistorted calib sample: ./imgs_calib\KakaoTalk_20261022_211823006_15.jpg
+saving undistorted calib sample: ./imgs_calib\KakaoTalk_20261022_211823006_16.jpg
+saving undistorted calib sample: ./imgs_calib\KakaoTalk_20261022_211823006_22.jpg
+total error: 0.25820296621072575
+[[2977.244174    0.       1534.328812]
+ [   0.       2978.59045  2044.534117]
+ [   0.          0.          1.      ]]
+[[2593.142219    0.       1447.706384]
+ [   0.       2324.998154 1729.687126]
+ [   0.          0.          1.      ]]
